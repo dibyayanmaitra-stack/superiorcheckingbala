@@ -1,0 +1,8 @@
+{
+  "name": "Beneficiary Re-Superchecking App",
+  "description": "A digital field application for recording and validating beneficiary status with image support and AI-assisted data entry.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
